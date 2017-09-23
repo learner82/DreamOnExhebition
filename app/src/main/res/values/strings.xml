@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">DreamOnExhibition</string>
+
+    <string name="name_field_required"> Name is Required</string>
+
+    <string name="email_field_required"> Email is Required</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Customers</string>
+
+    <string name="action_delete_all_entries">Delete All Customer</string>
+
+    <string name="action_extract_all_entries">Extract Data</string>
+
+    <string name="empty_view_title_text"> It\'s a bit lonely here...</string>
+
+    <string name="empty_view_subtitle_text"> Get started by adding a customer</string>
+
+    <string name="editor_activity_title_new_cust">Add Customer</string>
+
+    <string name="db_extracted">Database exported</string>
+
+    <string name="db_extracted_false">Database not exported</string>
+
+    <string name="editor_activity_edit_cust">Edit Customer</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="editor_insert_customer_failed">Error with saving Customer</string>
+
+    <string name="editor_insert_customer_succesfull">Customer Saved</string>
+
+    <string name="editor_update_customer_successful">Customer updated</string>
+
+    <string name="editor_update_customer_failed">Error with updating Customer</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_customer_successful">Customer deleted</string>
+
+    <string name="editor_delete_customer_failed">Error with deleting customer</string>
+
+    <string name="delete_dialog_msg">Delete this Customer?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="category_overview">Overview</string>
+
+    <string name="category_gender">Gender</string>
+
+    <string name="category_measurement">Measurement</string>
+
+    <string name="hint_customer_name">Name</string>
+
+    <string name="hint_customer_email">Email</string>
+
+    <string name="hint_customer_telephone">Telephone</string>
+
+    <string name="label_customer_date">Potential date of event:</string>
+
+    <string name="hint_customer_date">Date</string>
+
+    <string name="lbl_customer_location">Location:</string>
+
+    <string name="lbl_admin_comment">Comments:</string>
+
+    <string name="hint_customer_location">Location</string>
+
+    <string name="hint_admin_comment">Comment</string>
+
+    <string name="lbl_caption">Get in touch!</string>
+</resources>
